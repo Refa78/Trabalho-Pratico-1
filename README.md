@@ -17,7 +17,9 @@ Os exercícios abordam:
 Todos os exercícios foram desenvolvidos em Python.
 
 ## Estrutura do Projeto
+## Estrutura do Projeto
 
+```text
 trabalho-python/
 │
 ├── README.md
@@ -26,7 +28,7 @@ trabalho-python/
 ├── manipulacao_arquivos/
 ├── manipulacao_strings/
 └── tratamento_excecoes/
-
+```
 ## Professor
 
 Ralph
