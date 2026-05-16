@@ -2,6 +2,8 @@
 
 Aluno: Rennan Ferreira de Almeida
 
+Matrícula: 202502211708
+
 ## Descrição
 
 Este repositório contém os exercícios de fixação da disciplina
@@ -15,7 +17,6 @@ Os exercícios abordam:
 
 Todos os exercícios foram desenvolvidos em Python.
 
-## Estrutura do Projeto
 ## Estrutura do Projeto
 
 ```text
